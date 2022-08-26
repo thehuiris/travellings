@@ -7,12 +7,16 @@
 想法来自 https://github.com/XXIIVV/webring
 
 ### 更新说明：
+绘制了新的界面，优化了js
 
+### 一些信息：
 [🔮 统计数据](https://data.travellings.link/share/js3UvdC4/%E5%BC%80%E5%BE%80) | [♻️ 网站状态](https://status.travellings.link/status/index)
 
 > ☕ **维护者**：[@volfclub](https://github.com/volfclub) [@linlinzzo](https://github.com/linlinzzo) [@qystudio0](https://github.com/qystudio0) [@HAHH9527](https://github.com/HAHH9527) [@Jiaocz](https://github.com/Jiaocz) [@essesoul](https://github.com/essesoul)
 
 > ☕ **感谢**：特别感谢 [@LEORChn](https://github.com/LEORChn) [@caibingcheng](https://github.com/caibingcheng) [@ljcbaby](https://github.com/ljcbaby) [@YiHui-Liu](https://github.com/YiHui-Liu) [WhitemuTeam](https://github.com/WhitemuTeam) [@ScarletDor](https://github.com/ScarletDor) [@Ljcbaby](https://github.com/ljcbaby) ，反馈了一些存在问题的网页 —— 均已得到处理。
+
+> ☕ **鸣谢*：感谢[蓝易云](https://tsyvps.com)提供的服务器
 
 > 💥 **重要**： 由于[不可抗的原因](https://github.com/travellings-link/travellings/issues/566)，请尽快将您网页 Travelling 指向的域名（包括图片素材），从 `https://travellings.now.sh` 更新为 `https://travellings.link` 。
 
