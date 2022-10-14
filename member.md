@@ -117,7 +117,7 @@
 | 190 | 顶栏 | YunShu'Blog | https://www.yunshu.site |
 | 192 | 顶栏 | 小康的个人主页 | https://xiaokang.me |
 | 193 | 顶栏 | 威廉伯爵 | https://megatontech.github.io |
-| 195 | 顶栏 | Huiris's Log | https://huiris.com |
+| 195 | 底部 | Huiris's Log | https://huiris.com |
 | 196 | 顶栏 | iVampireSP的物语 | https://ivampiresp.com |
 | 197 | 中心 | UTOPIA | https://ishya.top |
 | 198 | 侧栏 | MBR的博客 | https://blog.mbrjun.cn |
